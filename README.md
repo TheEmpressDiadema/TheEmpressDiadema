@@ -5,4 +5,4 @@
 <p>🤔 I’m currently working on FoxPro project at work(zavod)
 <p>🤔 I’m currently learning python django 
 <p>🤔 I’m looking for help with psyche
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eimaen&theme=github" alt="Stats">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheEmpressDiadema&theme=github" alt="Stats">
